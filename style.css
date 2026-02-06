@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'HankenGrotesk';
-    src:url('assets/fonts/HankenGrotesk-VariableFont_wght.ttf') format('truetype');
+    src: url('./assets/fonts/HankenGrotesk-VariableFont_wght.ttf') format('truetype');
     font-weight: 100 900;
     font-display: swap;
 }
@@ -168,4 +168,5 @@ main{
     background-color: hsl(241, 81%, 54%);
     cursor: pointer;
  }
+
 
